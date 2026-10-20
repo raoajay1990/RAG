@@ -1,0 +1,4 @@
+azure-identity
+azure-ai-projects
+azure-search-documents
+python-dotenv
